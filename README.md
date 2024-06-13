@@ -8,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+(NOTE: each time before running the blog from scratch, load the json server (npx json-server --watch src/data/db.json --port 8000) in terminal
+
 In the project directory, you can run:
 
 ### `npm start`
