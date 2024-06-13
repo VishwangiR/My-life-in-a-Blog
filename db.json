@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My school journey",
+      "body": "My journey as a science student in an all-girls school has been incredibly enriching. Surrounded by inspiring quotes and portraits of female scientists, I found a nurturing environment where curiosity thrived. Collaborating on experiments and participating in robotics workshops fostered teamwork and leadership skills. Beyond academics, discussions on gender equality in STEM fields and guest lectures by successful alumnae sparked my passion for science. The school's emphasis on holistic development empowered me to apply scientific knowledge to real-world challenges and prepared me for future academic pursuits with confidence. It was a transformative experience that instilled in me a lifelong love for learning and a drive to make a difference in the world.",
+      "year": 2021,
+      "id": "1"
+    },
+    {
+      "title": "My JEE journey",
+      "body": "My journey preparing for the JEE was a rigorous yet rewarding experience. From early morning study sessions to late-night problem-solving, I immersed myself in physics, chemistry, and mathematics. Mock tests became milestones, refining my strategy and stamina. Tutors and peers provided invaluable support, fostering a competitive yet collaborative environment. Balancing school curriculum with JEE syllabus was challenging but taught me time management and prioritization. The pressure was immense, but perseverance prevailed. As exam day approached, nerves turned into focused determination. Regardless of the outcome, the journey itself enriched my knowledge, resilience, and determination for future endeavors.",
+      "year": 2022,
+      "id": "2"
+    },
+    {
+      "title": "My college journey",
+      "body": "Reflecting on my college experience up to the second year in an engineering institution has been a transformative journey of growth and learning. From the excitement of orientation day to navigating complex engineering courses, each semester has presented new challenges and opportunities. Building friendships and collaborating on projects have enriched my academic experience, fostering a sense of camaraderie and teamwork. Balancing academics with extracurricular activities, such as participating in technical events and clubs, has broadened my perspective and honed my skills beyond the classroom. As I progress, I am grateful for the mentorship of professors and the support of peers, shaping me into a more resilient and driven individual prepared for future challenges in my field.",
+      "year": 2023,
+      "id": "3"
+    }
+  ]
+}

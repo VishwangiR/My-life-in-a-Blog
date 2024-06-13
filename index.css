@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+*{
+margin: 0;
+font-family: "Rajdhani";
+color: #333;  
+}
+
+.navbar{
+  padding: 20px;
+  display:flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+
+}
+.navbar h1{
+  font-size: 40px;
+  color:#f1356d;
+}
+.navbar .links{
+  margin-left: auto;
+}
+.navbar a{
+  margin-left: 15px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar a:hover{
+  color:#f1356d;
+}
+.content{
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+.blog-preview{
+  padding: 10px;
+  margin: 5px 10px;
+  border-bottom: 3px solid #f2f2f2;
+}
+.blog-preview h2{
+  color:#f1356d;
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+.blog-preview:hover{
+  box-shadow: 5px 5px 5px #f2f2f2;
+}
+.blog-preview a{
+  text-decoration: none;
+}
+.blog-details h2{
+  font-size: 40px;
+  color:#f1356d;
+  padding: 5px;
+}
+.blog-details article p{
+  font-size: 25px;
+  color:black;
+}
+.blog-details article div{
+  padding:10px;
+  font-size: 20px;
+}
+.create h2{
+  text-align: center;
+  padding: 10px;
+  padding-bottom: 20px;
+}
+.create form{
+  border: 5px solid #f2f2f2;
+  padding: 20px;
+  max-width: 70vw;
+  max-height: 60vh;
+}
+.create form label{
+  font-size: 20px;
+  color:#f1356d;
+}
+.create form input,textarea{
+  width: 100%;
+  border: none;
+  background-color: rgba(190, 68, 121, 0.3);
+}
+button{
+  background-color: #f2f2f2;
+  color:#f1356d;
+  border: none;
+  width: 20%;
+  margin-top: 10px;
+  padding: 5px;
+  border-radius: 10px;
+}
+button:hover{
+  background-color: #f1356d;
+  color:#f2f2f2;
+  cursor: pointer;
+}
+img{
+  max-width: 80px;
+  padding: 10px;
+}
